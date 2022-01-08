@@ -5,3 +5,5 @@ Game Maker Studio 2 (code)
 Inkscape (art)
 Aseprite (animation)
 Audacity (sound)
+
+You can download and play the game for free here: https://bold-hamster.itch.io/box-2061
